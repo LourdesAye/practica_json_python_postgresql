@@ -1,0 +1,248 @@
+═══════════════════════════════════════════════════════
+LOG DE RESPUESTAS SIN PREGUNTA
+═══════════════════════════════════════════════════════
+
+[RESPUESTA 1]
+Fecha: 2024-03-23T13:52:20.203Z
+Autor: ezequieloescobar
+Contenido: Este canal será utilizado para realizar consultas (TPA, temas de la asignatura, parciales, etc.).Esperamos que sea lo más colaborativo posible.
+
+Siéntanse libres de contestar las dudas de sus compañeros y/o aportar nuevas ideas 🙂
+-------------------------------------------------------
+
+[RESPUESTA 2]
+Fecha: 2024-03-30T13:23:12.232Z
+Autor: ezequieloescobar
+Contenido: Buen día Elias. Los tres puntos. Revisa el mensaje que dejamos en el canal <#1219817856288686086>
+-------------------------------------------------------
+
+[RESPUESTA 3]
+Fecha: 2024-03-30T21:28:08.121Z
+Autor: aylenmsandoval
+Contenido: Hola! Sí, cuando tengan asignado su número de grupo van a tener un chat y un canal de voz por grupo.
+-------------------------------------------------------
+
+[RESPUESTA 4]
+Fecha: 2024-03-30T21:31:38.672Z
+Autor: aylenmsandoval
+Contenido: Ah! Te diría que escribas por  <#1221978402396045402>  preguntando si a alguien le falta un integrante
+-------------------------------------------------------
+
+[RESPUESTA 5]
+Fecha: 2024-04-03T14:56:26.408Z
+Autor: aylenmsandoval
+Contenido: Hola Nicolás! Asumo te referís al Diagrama de Clases, https://github.com/dds-utn/vuelos-aeropuertos/blob/main/diagrama_de_clases_propuesto.PNG clona el repo y descargalo de ahi 🙂
+-------------------------------------------------------
+
+[RESPUESTA 6]
+Fecha: 2024-04-06T23:20:58.001Z
+Autor: ezequieloescobar
+Contenido: Buenas! Sacá la anotación de @RunWith que tenes arriba de la clase.
+-------------------------------------------------------
+
+[RESPUESTA 7]
+Fecha: 2024-04-07T15:13:06.998Z
+Autor: ezequieloescobar
+Contenido: Gracias por avisarlo Gabi. Luego lo modificamos
+-------------------------------------------------------
+
+[RESPUESTA 8]
+Fecha: 2024-04-08T19:52:38.334Z
+Autor: lucassaclier
+Contenido: Tranquila <@1090639225860395120>, y el resto lo seguiremos revisando! Avancen con el equipo y el TP, lo administrativo lo resolveremos en conjunto!
+-------------------------------------------------------
+
+[RESPUESTA 9]
+Fecha: 2024-04-09T01:05:17.880Z
+Autor: aylenmsandoval
+Contenido: Buenas noches Araceli! Te sucede que la consola no reconoce maven? Hicisge lo de las variables de entorno?
+-------------------------------------------------------
+
+[RESPUESTA 10]
+Fecha: 2024-04-09T01:16:21.632Z
+Autor: ezequieloescobar
+Contenido: Buenas! De todas formas fijate si desde el IDE te funciona Maven, porque quizás no necesitas accederlo desde afuera.. En el ide podes crear un proyecto, agregarle un POM con alguna dependencia y darle al botón de "Refresh" dentro de la solapa de Maven
+-------------------------------------------------------
+
+[RESPUESTA 11]
+Fecha: 2024-04-09T01:19:27.341Z
+Autor: ezequieloescobar
+Contenido: Tino! Te dejo una propuesta (también la subimos al aula): https://drive.google.com/file/d/1AfT3VmNo8oMStj1ZE7WgO7gtbK9hpLL1/view
+-------------------------------------------------------
+
+[RESPUESTA 12]
+Fecha: 2024-04-09T19:15:51.193Z
+Autor: lucassaclier
+Contenido: Paso a paso, sin prisa pero sin pausa! Si ya tenés el entorno andando y vas siguiendo la práctica, vas encaminada!
+-------------------------------------------------------
+
+[RESPUESTA 13]
+Fecha: 2024-06-17T00:11:39.745Z
+Autor: lucassaclier
+Contenido: Hola Rocío, disculpá la demora en la respuesta. La clase Sensor la podés dejar y conectarla a una clase/interfaz receptora del mensaje del Broker. Es importante definir cómo van a definir la recepción, si cada heladera tiene un topic o en un mismo topic puede ser usado por varias heladeras y el mensaje tendrá por ejemplo el id de Heladera.
+-------------------------------------------------------
+
+[RESPUESTA 14]
+Fecha: 2024-06-18T03:29:50.053Z
+Autor: lucassaclier
+Contenido: Hola Gustavo, no llego a ver la ruta que estás colocando para ejecutar completa. Tenés que ejecutar java -jar nombredelarchivo.jar . Lo que podés hacer es probar desde un CMD si funciona correctamente primero y luego armar la tarea programada. Es importante que la variable de entorno JAVA esté configurada. Al ejecutarse no vas a ver nada puntual, ya que se ejecuta en segundo plano. Podés escribir un archivo para verificar bien simple la ejecución. Excelente semana y quedo a disposición!
+-------------------------------------------------------
+
+[RESPUESTA 15]
+Fecha: 2024-06-18T18:18:39.977Z
+Autor: lucassaclier
+Contenido: Buenísimo Gustavo!
+-------------------------------------------------------
+
+[RESPUESTA 16]
+Fecha: 2024-06-18T18:19:50.271Z
+Autor: aylenmsandoval
+Contenido: Hola Gustavo! Me meto nomás para decir que si usas Notepad ++ en vez del Notepad normal, podés hacer eso de dejar el archivo abierto porque te aparece un cartel que dice que otro proceso lo modificó 😄
+-------------------------------------------------------
+
+[RESPUESTA 17]
+Fecha: 2024-06-21T21:22:16.332Z
+Autor: lucassaclier
+Contenido: Avisen cualquier cosa!
+-------------------------------------------------------
+
+[RESPUESTA 18]
+Fecha: 2024-06-26T21:00:30.834Z
+Autor: aylenmsandoval
+Contenido: Hola Mercedes! Está subida la práctica Integradora que estaremos realizando en el Web Campus. Que te mejores!🦋
+-------------------------------------------------------
+
+[RESPUESTA 19]
+Fecha: 2024-07-07T17:04:27.434Z
+Autor: lucassaclier
+Contenido: Resuelto <@769703285153464321>! Gracias por el comentario!
+-------------------------------------------------------
+
+[RESPUESTA 20]
+Fecha: 2024-07-08T16:35:09.634Z
+Autor: lucassaclier
+Contenido: Buen día <@1091016946297872514>, nos fijamos y te compartimos!
+-------------------------------------------------------
+
+[RESPUESTA 21]
+Fecha: 2024-07-08T18:39:23.213Z
+Autor: lucassaclier
+Contenido: Martina, si es la parte de API REST te recomiendo mirar el Seminario Parte I (Teórico), Parte II (Práctica). 
+https://utnddsba.contactin.bio/
+¿O es más vinculado a otro tema?
+-------------------------------------------------------
+
+[RESPUESTA 22]
+Fecha: 2024-07-09T15:05:07.212Z
+Autor: lucassaclier
+Contenido: Buen día <@1091016946297872514>, dale buscamos alguna del año pasado o alguna clase de consulta que dimos de Arquitectura puntual y te compartimos!
+-------------------------------------------------------
+
+[RESPUESTA 23]
+Fecha: 2024-07-09T17:36:20.270Z
+Autor: lucassaclier
+Contenido: Buenas tardes <@1091016946297872514> te dejo un link de una clase de consulta de Arquitectura que repasamos varios de los puntos.
+
+https://drive.google.com/drive/u/0/folders/1xP322JAq7GCw1dsD_kJgb8HyZFgaSeha
+
+Y te dejo un link de Martin Fowler para profundizar Modelo en Capas, está en Inglés pero lo podés traducir sin problemas.
+
+https://martinfowler.com/bliki/PresentationDomainDataLayering.html
+
+Espero que te sirva!
+-------------------------------------------------------
+
+[RESPUESTA 24]
+Fecha: 2024-08-19T22:14:52.561Z
+Autor: ezequieloescobar
+Contenido: Buenas. Buscas alguna en particular? Todas están subidas al drive del curso
+-------------------------------------------------------
+
+[RESPUESTA 25]
+Fecha: 2024-08-19T22:15:02.225Z
+Autor: ezequieloescobar
+Contenido: Siempre se suben el día después de la clase
+-------------------------------------------------------
+
+[RESPUESTA 26]
+Fecha: 2024-09-17T11:15:31.811Z
+Autor: lucassaclier
+Contenido: Mil disculpas <@580903983321972746> y equipo! ¿Pudieron participar finalmente? ¿Les falta alguna info?
+-------------------------------------------------------
+
+[RESPUESTA 27]
+Fecha: 2024-10-03T16:39:23.610Z
+Autor: ezequieloescobar
+Contenido: Hola Agus! Cómo va? Sí, no estaría mal. Podrías hacerlo ahí sin problemas!
+-------------------------------------------------------
+
+[RESPUESTA 28]
+Fecha: 2024-10-08T18:10:07.830Z
+Autor: lucassaclier
+Contenido: Dejo la grabación del día de hoy.
+
+https://drive.google.com/drive/u/1/folders/17hRyeTG9xNUKQfUfRzWQoRLUowpFVvhp
+-------------------------------------------------------
+
+[RESPUESTA 29]
+Fecha: 2024-10-10T12:04:34.324Z
+Autor: aylenmsandoval
+Contenido: Hola Mili! Claro, se genera un ID cuando el usuario inicia sesión, este se guarda en la cookie (almacenada del lado del cliente) y en cada request que se haga se envía también la cookie y se recupera la sesión por el ID. Esa es tu pregunta?
+-------------------------------------------------------
+
+[RESPUESTA 30]
+Fecha: 2024-11-10T15:25:59.497Z
+Autor: ezequieloescobar
+Contenido: Buenas Gonza, cómo va? Te dejo algunas consideraciones respecto al modelo de datos y menciono a <@757767776159924335>  para que te deje respecto a Arquitectura.
+
+- Orgs exentas de pago: el enunciado nos dice que debemos tener en cuenta que las orgs. que están exentas de pago se cargan previamente al Sistema y que se debe considerar un elemento únivoco para su vinculación. Imaginate que vos como org. entras a registrarte, ingresas tu número de CUIT (por ejemplo) y ahí el Sistema te detecta como "Exenta de pago". Me explico? Tu modelo no está soportando esto en este momento, deberías mínimamente agregar un campo más y/o una tabla más.
+- La entidad alumno_universidad es media exagerada. Podrías simplemente tener una columna "es_interno" dentro de "participante", por ejemplo. En caso de que sea externo, debe indicar entidad educativa (otra columna nullable, por ejemplo)
+-  Falta una relación entre la organización y las acciones. Según el enunciado, la org. decide qué acciones deberán ejecutarse cuando un participante se vincula a ella. Vos actualmente sólo tenes una relación entre vinculación y acción.
+- [IMPORTANTE] Estás pensando todo el Sistema como para una única feria de empresas: ¿apropósito o no? Una org. podría participar de varias ferias a lo largo del tiempo.
+-------------------------------------------------------
+
+[RESPUESTA 31]
+Fecha: 2024-11-22T01:57:13.416Z
+Autor: lucassaclier
+Contenido: <@390317736376664065> después coordinamos y te lo acerco!
+-------------------------------------------------------
+
+[RESPUESTA 32]
+Fecha: 2024-11-29T20:30:12.582Z
+Autor: lucassaclier
+Contenido: Mil disculpas!
+-------------------------------------------------------
+
+[RESPUESTA 33]
+Fecha: 2024-12-02T15:19:40.497Z
+Autor: ezequieloescobar
+Contenido: Buenas Juan Cruz! 
+Cuenta solamente la oportunidad para las partes que recuperas. Tené en cuenta que tenes  en total 5 fechas, no vaya a ser cosa que te quedes sin fechas para poder recuperar de ser necesario!
+-------------------------------------------------------
+
+[RESPUESTA 34]
+Fecha: 2024-12-04T11:07:49.299Z
+Autor: aylenmsandoval
+Contenido: Buen día Octavio!
+
+1. Sí, va bien. La pregunta acá es: ¿qué hace el método generarRespuesta en la Pregunta? Y te falta la clase Opción, que la nombras pero no la veo! Por otra parte al Feedback le podrías agregar una fechaCompletado, lo mismo al Formulario, podrías sumarle un fechaAlta.
+
+2. La idea no es que sean polimórficas sino que por cada viaje recibas una recomendación que incluya los 3 tipos (Clima, Seguridad, Lugares). Te faltaría una entidad que pueda recomendar. Por otra parte, ¿el método recomendar qué haría? Tenés que asegurarte que se guarde un texto que sea la recomendación en sí para un viaje.
+
+3. Va bien!
+
+4. En ese caso tenías notificación por Wpp y Push, entonces podrías tener una interfaz INotificador y esas dos clases concretas. Y sí, necesitarías una biblioteca para resolverlo! La clase Inotificable es para quedarte con la info necesaria del motoquero que sirva para ser contactado, podría estar tambien.
+-------------------------------------------------------
+
+[RESPUESTA 35]
+Fecha: 2024-12-04T14:50:07.811Z
+Autor: aylenmsandoval
+Contenido: Podría ir por ahí! O que el flujo para generar las recomendaciones utilice el Notificador
+-------------------------------------------------------
+
+[RESPUESTA 36]
+Fecha: 2025-01-21T01:18:46.313Z
+Autor: ezequieloescobar
+Contenido: Hola <@588739213030326287> ! Sábado 15 y sábado 22
+-------------------------------------------------------
+
