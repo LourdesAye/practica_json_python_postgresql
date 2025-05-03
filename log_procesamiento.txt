@@ -1119,8 +1119,6 @@ Hay preguntas abiertas: 2
 
 procesando mensaje número194
      ...   cuyo contenido es Buenas! La sugerencia del IDE va mas por el lado de que detecta que tu lógica “casera” puede ser reemplazada por un método ya definido por Java, por ende te ahorra código innecesario ademas de que, en general, estos métodos están definidos de la forma mas eficiente posible. Te recomendaría que uses allMatch().
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
 
 procesando mensaje número195
      ...   cuyo contenido es Buenas, consulta, qué tan incorrecto sería dejar algún setter/getter que no se está usando definido en una clase?
@@ -1131,8 +1129,6 @@ Hay preguntas abiertas: 1
 
 procesando mensaje número196
      ...   cuyo contenido es Buenas! No esta mal, bibliotecas como Lombok por ejemplo generan Getters y Setters para todos los atributos de la clase, sin importar si se esta usando o no en cierto punto. Mismo IntelliJ provee herramientas para auto generar todos los Getters y Setters para los atributos. No se suele hacer mucho foco en si lo necesito o no, es mas diría que siempre se busca tenerlos en caso de que sean necesarios a futuro no tener que estar creándolos cada vez.
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
 
 procesando mensaje número197
      ...   cuyo contenido es buenisimo, gracias
@@ -1163,13 +1159,9 @@ procesando mensaje número201
 
 procesando mensaje número202
      ...   cuyo contenido es Si no veo mal falta el constructor de materia
-cantidad de preguntas abiertas: 1
-Hay preguntas abiertas: 1
 
 procesando mensaje número203
      ...   cuyo contenido es Buenas! Si no veo mal, estas queriendo ejecutar un metodo de la instancia PDP directamente en la clase InscripcionTest. Deberias primero declarar un metodo dentro de esa clase y luego dentro de ese metodo podes llamar a this.pdp.agregarCorrelativas(...). Por otro lado, como menciona Nico, falta el constructor en la clase Materia. Dejo imagen de ejemplo.
-cantidad de preguntas abiertas: 1
-Hay preguntas abiertas: 1
 
 procesando mensaje número204
      ...   cuyo contenido es Ahi vaaa, muchisimas gracias!!
@@ -1315,8 +1307,6 @@ El autor posee preguntas pendientes
 
 procesando mensaje número226
      ...   cuyo contenido es Ademas sumo a <@751175566312472647> si consideras que un getter o setter es importante para resolver algún requerimiento especifico .. entonces sugiero q lo modeles (que lo escribas) si no no hace falta .. a efectos academicos con que escribas en la sección de justificaciones “los getters y setters no se modelan” alcanza
-cantidad de preguntas abiertas: 1
-Hay preguntas abiertas: 1
 
 procesando mensaje número227
      ...   cuyo contenido es No lo es realmente, solo los use para los tests
@@ -1377,8 +1367,6 @@ El autor posee preguntas pendientes
 
 procesando mensaje número237
      ...   cuyo contenido es Se los vamos a generar  nosotros, apenas estén ya se los pasamos , probablemente con algún instructivo o videito corto de como acceden
-cantidad de preguntas abiertas: 1
-Hay preguntas abiertas: 1
 
 procesando mensaje número238
      ...   cuyo contenido es Perfecto gracias
@@ -1668,8 +1656,6 @@ procesando mensaje número283
 
 procesando mensaje número284
      ...   cuyo contenido es Agrego a Aylu hay reacciones q podrían combinarse … si te diste cuenta como hacerlo genial … sino no te compliques  como bocina de avión no forma parte de los requerimientos del dominio
-cantidad de preguntas abiertas: 1
-Hay preguntas abiertas: 1
 
 procesando mensaje número285
      ...   cuyo contenido es Hola, mañana solo se hace la entrega del TP? No tenemos clases?
@@ -3244,18 +3230,11 @@ procesando mensaje número470
 2) en base a lo dicho antes debes enfocare en que atributos de calidad medirías y con cuales metricas 
 3) mínimo el broker .. pero 🤔porque elegiste broker?  Y las entidades / componentes q te falten para integrar la solucion
 4) cuando  o cada cuanto se realiza la factura ?  Puede haber mas de un viaje ? Pensalo
-cantidad de preguntas abiertas: 1
-Hay preguntas abiertas: 1
-🟡 Nueva Pregunta Abierta: voy de a uno
-1) en el cliente liviano normal vos tenes una especie de monolito en el servidor en donde se ejecuta todo , el caso plantea desacoplar la logica de negocio o sea en criollo separae back y front pero que siga siendo server side ( esta separacion de componentes seria deseable tenerla en dos nodos distintos auqnue a veces no se puede ) pero diseñando de esa forma te permite pasar de liaviano a pesado mas facil
-2) en base a lo dicho antes debes enfocare en que atributos de calidad medirías y con cuales metricas 
-3) mínimo el broker .. pero 🤔porque elegiste broker?  y las entidades / componentes q te falten para integrar la solucion
-4) cuando  o cada cuanto se realiza la factura ?  puede haber mas de un viaje ? pensalo
 
 procesando mensaje número471
      ...   cuyo contenido es Buenas! Tengo una consulta acerca de los ids. Estaría bien poner un id a todas las tablas que modelamos en el modelo de datos?
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
+cantidad de preguntas abiertas: 1
+Hay preguntas abiertas: 1
 🟡 Nueva Pregunta Abierta: buenas! tengo una consulta acerca de los ids. estaría bien poner un id a todas las tablas que modelamos en el modelo de datos?
 
 procesando mensaje número472
@@ -3263,8 +3242,8 @@ procesando mensaje número472
 
 procesando mensaje número473
      ...   cuyo contenido es perfecto! gracias 😄
-cantidad de preguntas abiertas: 3
-Hay preguntas abiertas: 3
+cantidad de preguntas abiertas: 2
+Hay preguntas abiertas: 2
 El autor posee preguntas pendientes
  ⚪ Hubo un mensaje de cierre : perfecto! gracias 😄 del alumno: yaaaneel
 🟢 pasó a cerrarse la pregunta por respuesta de cierre de un alumno
@@ -3275,15 +3254,12 @@ Considerando que habría que trabajar en 2 componentes y su integración, que me
   ### pasó a cerrarse la pregunta, más de 8 horas hay de diferencia con el mensaje actual  ###
          ## el mensaje actual es: considerando el tiempo que tenemos de desarrollo (5 meses, que a mí parecer es poco) ¿no se descarta el cliente liviano desacoplado de la lógica de negocio?
 considerando que habría que trabajar en 2 componentes y su integración, que me suena más complejo que, por ejemplo, un cliente liviano, donde está todo en un mismo componente (aunque esto sin conocer el equipo de trabajo, suponiendo entonces que no se cuenta con un equipo muy grande). y su autor es ivanabete
-cantidad de preguntas abiertas: 1
-Hay preguntas abiertas: 1
+cantidad de preguntas abiertas: 0
 🟡 Nueva Pregunta Abierta: considerando el tiempo que tenemos de desarrollo (5 meses, que a mí parecer es poco) ¿no se descarta el cliente liviano desacoplado de la lógica de negocio?
 considerando que habría que trabajar en 2 componentes y su integración, que me suena más complejo que, por ejemplo, un cliente liviano, donde está todo en un mismo componente (aunque esto sin conocer el equipo de trabajo, suponiendo entonces que no se cuenta con un equipo muy grande).
 
 procesando mensaje número475
      ...   cuyo contenido es Buenas como va? Tengo una consulta, en el modelo de datos si quiero persistir un campo que es booleano, con poner SMALLINT en esa columna estaría bien? Muchas gracias
-  ### pasó a cerrarse la pregunta, más de 8 horas hay de diferencia con el mensaje actual  ###
-         ## el mensaje actual es: buenas como va? tengo una consulta, en el modelo de datos si quiero persistir un campo que es booleano, con poner smallint en esa columna estaría bien? muchas gracias y su autor es juancito14697
 cantidad de preguntas abiertas: 1
 Hay preguntas abiertas: 1
 🟡 Nueva Pregunta Abierta: buenas como va? tengo una consulta, en el modelo de datos si quiero persistir un campo que es booleano, con poner smallint en esa columna estaría bien? muchas gracias
@@ -3460,8 +3436,6 @@ porque si no me acuerdo mal, eze había mencionado que hibernate y los tipos de 
 
 procesando mensaje número497
      ...   cuyo contenido es en la persistencia anda de los mas complejo a lo mas sencillo fijate que es lo mas importante
-cantidad de preguntas abiertas: 3
-Hay preguntas abiertas: 3
 
 procesando mensaje número498
      ...   cuyo contenido es Buenass, una consulta, ya hay confirmadas fechas de primeros y segundos recuperatorios? porque las anduve buscando por las aulas virtuales y los drives y no encontré nada
@@ -3553,8 +3527,6 @@ procesando mensaje número508
      ...   cuyo contenido es El tuyo no recuerdo haberlo corregido puede ser que si pero los  examenes de los martes  los tiene <@1219766711415209984>  si ya viste las consideraciones y u preguntar  algo adelante
   ### pasó a cerrarse la pregunta, más de 8 horas hay de diferencia con el mensaje actual  ###
          ## el mensaje actual es: el tuyo no recuerdo haberlo corregido puede ser que si pero los  examenes de los martes  los tiene <@1219766711415209984>  si ya viste las consideraciones y u preguntar  algo adelante y su autor es ryan129623
-cantidad de preguntas abiertas: 1
-Hay preguntas abiertas: 1
 
 procesando mensaje número509
      ...   cuyo contenido es Hola Buenas, una consulta, que significa el pendiente en la parte de teoria? Se stan corrigiendo la teoria del 1er parcial? o como es eso?
@@ -4087,8 +4059,6 @@ cantidad de preguntas abiertas: 0
 
 procesando mensaje número580
      ...   cuyo contenido es Buen día me meto en la charla todo cambió de diseño debería estar correctamente justificado
-cantidad de preguntas abiertas: 1
-Hay preguntas abiertas: 1
 
 procesando mensaje número581
      ...   cuyo contenido es buenisimo! muchas graciass!
@@ -4558,8 +4528,6 @@ con la otra opción, me imagino que se debería acceder varias veces a la base d
 
 procesando mensaje número638
      ...   cuyo contenido es Perdón pero aunque no lo creas recién estoy almorzando
-cantidad de preguntas abiertas: 1
-Hay preguntas abiertas: 1
 
 procesando mensaje número639
      ...   cuyo contenido es Claro, entiendo. Pero me resulta raro juntar 2 roles completamente distintos en una única tabla Rol. Siento que se está acoplando innecesariamente y, más adelante, me quedarían relaciones que no les veo mucho sentido. El cliente tendría relaciones que en realidad son del administrador y viceversa.
@@ -5580,13 +5548,13 @@ cantidad de preguntas abiertas: 0
 
 procesando mensaje número775
      ...   cuyo contenido es Exacto!
-✅ Procesamiento finalizado. 1 preguntas abiertas, 192 preguntas cerradas.
+✅ Procesamiento finalizado. 1 preguntas abiertas, 191 preguntas cerradas.
 
-✅ Se cerraron 155 preguntas en total.
+✅ Se cerraron 154 preguntas en total.
 
 ✅ Procesamiento completado para el archivo 1
 📂 Archivos guardados para el archivo 1: chat_1_emojis_gifs_descartados.csv, chat_1_numeros_descartados.csv, chat_1_json_sin_frases_cortas.csv
-📊 Resultados de procesamiento: 1 preguntas abiertas, 192 preguntas cerradas
+📊 Resultados de procesamiento: 1 preguntas abiertas, 191 preguntas cerradas
                     id            author                                                                                                                                                                                                            content                 timestamp attachments
 0  1231707652858581002         gonza3843  Buenas, que tal? No pude acceder al repo del equipo, intente entrando desde https://github.com/dds-utn/2024-tpa-mi-no-grupo-15\nLa clase que se unieron al repo no pude asistir, y cuando intente despues no pude  2024-04-21T20:46:28.463Z          []
 1  1231750525578641459  ezequieloescobar                                                                                                                                                                       Buenas noches! Envianos tu usuario de github  2024-04-21T23:36:50.116Z          []
@@ -5705,50 +5673,46 @@ cantidad de preguntas abiertas: 0
 
 procesando mensaje número21
      ...   cuyo contenido es Buen dia
-cantidad de preguntas abiertas: 0
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Holii puede ser que en el aula no esten todas las ppts ?
 🔶 Mensaje dudoso asignado a la pregunta cerrada: ¡Buenas! En su momento no pude unirme al repo de mi grupo. Mi usuario es manugomezp y soy del grupo 4. ¿Podrían unirme? Muchas gracias.
 
 procesando mensaje número22
      ...   cuyo contenido es Que necesitas?
-cantidad de preguntas abiertas: 0
-🟡 Nueva Pregunta Abierta: que necesitas?
+🔶 Mensaje dudoso asignado a la pregunta cerrada: Holii puede ser que en el aula no esten todas las ppts ?
+🔶 Mensaje dudoso asignado a la pregunta cerrada: ¡Buenas! En su momento no pude unirme al repo de mi grupo. Mi usuario es manugomezp y soy del grupo 4. ¿Podrían unirme? Muchas gracias.
 
 procesando mensaje número23
      ...   cuyo contenido es Ya vi q escribiste en el otro canal..
-cantidad de preguntas abiertas: 1
-Hay preguntas abiertas: 1
-El autor posee preguntas pendientes
+🔶 Mensaje dudoso asignado a la pregunta cerrada: Holii puede ser que en el aula no esten todas las ppts ?
+🔶 Mensaje dudoso asignado a la pregunta cerrada: ¡Buenas! En su momento no pude unirme al repo de mi grupo. Mi usuario es manugomezp y soy del grupo 4. ¿Podrían unirme? Muchas gracias.
 
 procesando mensaje número24
      ...   cuyo contenido es Hola, buenas tardes. Quería consultar si de casualidad el curso de UI/UX podrá quedar grabado, porque me interesaría participar pero tengo que cursar en el mismo horario en campus. Gracias, un saludo!
-  ### pasó a cerrarse la pregunta, más de 8 horas hay de diferencia con el mensaje actual  ###
-         ## el mensaje actual es: hola, buenas tardes. quería consultar si de casualidad el curso de ui/ux podrá quedar grabado, porque me interesaría participar pero tengo que cursar en el mismo horario en campus. gracias, un saludo! y su autor es .sm__
 cantidad de preguntas abiertas: 0
+🔶 Mensaje dudoso asignado a la pregunta cerrada: Holii puede ser que en el aula no esten todas las ppts ?
 🔶 Mensaje dudoso asignado a la pregunta cerrada: ¡Buenas! En su momento no pude unirme al repo de mi grupo. Mi usuario es manugomezp y soy del grupo 4. ¿Podrían unirme? Muchas gracias.
-🔶 Mensaje dudoso asignado a la pregunta cerrada: Que necesitas?
 
 procesando mensaje número25
      ...   cuyo contenido es Buenas! Si! Los seminarios quedan grabados
+🔶 Mensaje dudoso asignado a la pregunta cerrada: Holii puede ser que en el aula no esten todas las ppts ?
 🔶 Mensaje dudoso asignado a la pregunta cerrada: ¡Buenas! En su momento no pude unirme al repo de mi grupo. Mi usuario es manugomezp y soy del grupo 4. ¿Podrían unirme? Muchas gracias.
-🔶 Mensaje dudoso asignado a la pregunta cerrada: Que necesitas?
 
 procesando mensaje número26
      ...   cuyo contenido es Buenas, queria preguntar si los seminarios entran para el parcial o si son para ayudarnos en el TP. Salduos!
 cantidad de preguntas abiertas: 0
+🔶 Mensaje dudoso asignado a la pregunta cerrada: Holii puede ser que en el aula no esten todas las ppts ?
 🔶 Mensaje dudoso asignado a la pregunta cerrada: ¡Buenas! En su momento no pude unirme al repo de mi grupo. Mi usuario es manugomezp y soy del grupo 4. ¿Podrían unirme? Muchas gracias.
-🔶 Mensaje dudoso asignado a la pregunta cerrada: Que necesitas?
 
 procesando mensaje número27
      ...   cuyo contenido es Buenos días Elias! El contenido de los seminiarios es necesario para el desarrollo del TPA, pero allí dentro también hay varias cuestiones que acompañan los temas de la cursada. Si bien no se les va a hacer una pregunta específica sobre contenido de alguno de los seminarios, es importante su visualización a medida que se los vayamos indicando.
+🔶 Mensaje dudoso asignado a la pregunta cerrada: Holii puede ser que en el aula no esten todas las ppts ?
 🔶 Mensaje dudoso asignado a la pregunta cerrada: ¡Buenas! En su momento no pude unirme al repo de mi grupo. Mi usuario es manugomezp y soy del grupo 4. ¿Podrían unirme? Muchas gracias.
-🔶 Mensaje dudoso asignado a la pregunta cerrada: Que necesitas?
 
 procesando mensaje número28
      ...   cuyo contenido es Perfecto. Muchas Gracias Eze!
 cantidad de preguntas abiertas: 0
+🔶 Mensaje dudoso asignado a la pregunta cerrada: Holii puede ser que en el aula no esten todas las ppts ?
 🔶 Mensaje dudoso asignado a la pregunta cerrada: ¡Buenas! En su momento no pude unirme al repo de mi grupo. Mi usuario es manugomezp y soy del grupo 4. ¿Podrían unirme? Muchas gracias.
-🔶 Mensaje dudoso asignado a la pregunta cerrada: Que necesitas?
 
 procesando mensaje número29
      ...   cuyo contenido es Hola, cual es la modalidad de la clase de mañana?
@@ -5775,12 +5739,12 @@ procesando mensaje número33
   ### pasó a cerrarse la pregunta, más de 8 horas hay de diferencia con el mensaje actual  ###
          ## el mensaje actual es: buenas, buscamos al grupo 43, somos del 25. no se si este es el chat para eso y su autor es brunosaurio19
 cantidad de preguntas abiertas: 0
-🔶 Mensaje dudoso asignado a la pregunta cerrada: Que necesitas?
+🔶 Mensaje dudoso asignado a la pregunta cerrada: ¡Buenas! En su momento no pude unirme al repo de mi grupo. Mi usuario es manugomezp y soy del grupo 4. ¿Podrían unirme? Muchas gracias.
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Hola, cual es la modalidad de la clase de mañana?
 
 procesando mensaje número34
      ...   cuyo contenido es Buenos días Bruno, cómo estás? No, este no es el canal indicado pues este es general para la cursada Martes + Miércoles. Tenes que escribir en el canal de consultas de tu curso!
-🔶 Mensaje dudoso asignado a la pregunta cerrada: Que necesitas?
+🔶 Mensaje dudoso asignado a la pregunta cerrada: ¡Buenas! En su momento no pude unirme al repo de mi grupo. Mi usuario es manugomezp y soy del grupo 4. ¿Podrían unirme? Muchas gracias.
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Hola, cual es la modalidad de la clase de mañana?
 
 procesando mensaje número35
@@ -7553,27 +7517,20 @@ cantidad de preguntas abiertas: 0
 procesando mensaje número254
      ...   cuyo contenido es Buenas! Como va? 
 Ahi te falta definirle el dialect al Hibernate. En el archivo donde tengas la configuracion deberias agregar una prop para eso. Ahi te adjunte un ejemplo de como podria ser con un archivo de config .properties, pero en tu caso probablemente tengas que meterlo dentro del persistance. Eso ya te lo dejo a vos para que lo investigues!
-cantidad de preguntas abiertas: 1
-Hay preguntas abiertas: 1
-🟡 Nueva Pregunta Abierta: buenas! como va? 
-ahi te falta definirle el dialect al hibernate. en el archivo donde tengas la configuracion deberias agregar una prop para eso. ahi te adjunte un ejemplo de como podria ser con un archivo de config .properties, pero en tu caso probablemente tengas que meterlo dentro del persistance. eso ya te lo dejo a vos para que lo investigues!
 
 procesando mensaje número255
      ...   cuyo contenido es Hola Facu,  ahi pude gracias! Ademas del dialect le tuve que especificar la zona horaria a la conexion en los dos xml de persistence y corrieron bien los tests.
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
+cantidad de preguntas abiertas: 1
+Hay preguntas abiertas: 1
 El autor posee preguntas pendientes
 
 procesando mensaje número256
      ...   cuyo contenido es Excelente!
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
-El autor posee preguntas pendientes
 
 procesando mensaje número257
      ...   cuyo contenido es ahhh eso es algo que se puede configurar? lo voy a estar mirando. gracias!
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
+cantidad de preguntas abiertas: 1
+Hay preguntas abiertas: 1
 🟡 Nueva Pregunta Abierta: ahhh eso es algo que se puede configurar? lo voy a estar mirando. gracias!
 
 procesando mensaje número258
@@ -7582,9 +7539,6 @@ procesando mensaje número258
 procesando mensaje número259
      ...   cuyo contenido es Buenos días, estoy teniendo inconvenientes al conectarme a mi bd en local, ya verifique que tenga creada la base de datos en mysql, y que tanto el nombre usuario (root), la contraseña y el nombre de la bd sean los mismos del mysql. Adjunto los "caused by"
 También agregué el Dialect en .xml y la zona horaria pero sigue fallando
-  ### pasó a cerrarse la pregunta, más de 8 horas hay de diferencia con el mensaje actual  ###
-         ## el mensaje actual es: buenos días, estoy teniendo inconvenientes al conectarme a mi bd en local, ya verifique que tenga creada la base de datos en mysql, y que tanto el nombre usuario (root), la contraseña y el nombre de la bd sean los mismos del mysql. adjunto los "caused by"
-también agregué el dialect en .xml y la zona horaria pero sigue fallando y su autor es martinsintas
   ### pasó a cerrarse la pregunta, más de 8 horas hay de diferencia con el mensaje actual  ###
          ## el mensaje actual es: buenos días, estoy teniendo inconvenientes al conectarme a mi bd en local, ya verifique que tenga creada la base de datos en mysql, y que tanto el nombre usuario (root), la contraseña y el nombre de la bd sean los mismos del mysql. adjunto los "caused by"
 también agregué el dialect en .xml y la zona horaria pero sigue fallando y su autor es martinsintas
@@ -7866,7 +7820,6 @@ cantidad de preguntas abiertas: 0
 
 procesando mensaje número283
      ...   cuyo contenido es Si nico … debería funcionar igual que import … asegúrate de agregar la/s properties correctas, toma en cuenta que el ORM no te va a validar las sentencias sql que uses en el archivo de inicializacion deberias asegursrte que los insert funcionen bien basicamente
-cantidad de preguntas abiertas: 0
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas! Hoy es en Medrano?
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas tardes, todo bien?
 
@@ -7886,8 +7839,6 @@ procesando mensaje número286
 
 <property name="hibernate.format_sql" value="true"/>
 <property name="hibernate.show_sql" value="true"/>
-cantidad de preguntas abiertas: 1
-Hay preguntas abiertas: 1
 
 procesando mensaje número287
      ...   cuyo contenido es Las tenemos!
@@ -7897,8 +7848,6 @@ El autor posee preguntas pendientes
 
 procesando mensaje número288
      ...   cuyo contenido es Lo que se me ocurre que pueden hacer es generar un logging personalizado directamente en el archivo del import.sql
-cantidad de preguntas abiertas: 1
-Hay preguntas abiertas: 1
 
 procesando mensaje número289
      ...   cuyo contenido es Uhhh lo vamos a probar
@@ -8045,26 +7994,22 @@ cantidad de preguntas abiertas: 0
 
 procesando mensaje número314
      ...   cuyo contenido es Por lo pronto todos esos ejercicios podes persistirlos para practicar modelo de datos … ademas estan todos los finales de la carpeta publica de ahi podes observar los puntos de arquitectura tambien…
-cantidad de preguntas abiertas: 0
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Holaa buenas, les quería consultar si de casualidad podrían pasar un temario del segundo parcial como el que nos dieron en la clase de repaso del primero ? Porque quería adelantar el resumen y revisar que no me falte ningún tema
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas! Mañana hay clase? Pregunto por el paro
 
 procesando mensaje número315
      ...   cuyo contenido es Asi mismo tambien todos los años vamos incorporando temas
-cantidad de preguntas abiertas: 0
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Holaa buenas, les quería consultar si de casualidad podrían pasar un temario del segundo parcial como el que nos dieron en la clase de repaso del primero ? Porque quería adelantar el resumen y revisar que no me falte ningún tema
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas! Mañana hay clase? Pregunto por el paro
 
 procesando mensaje número316
      ...   cuyo contenido es Ademas de lo que se toma en los finales se toma un ejercicio netamente de persistencia es decir dado un diagrama de clases  deberán  no solo hacer el modelo de datos sino que  ademas deberan escribir las anotations necesarias para lograrlo … la practica de eso es el tp …
-cantidad de preguntas abiertas: 0
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Holaa buenas, les quería consultar si de casualidad podrían pasar un temario del segundo parcial como el que nos dieron en la clase de repaso del primero ? Porque quería adelantar el resumen y revisar que no me falte ningún tema
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas! Mañana hay clase? Pregunto por el paro
 
 procesando mensaje número317
      ...   cuyo contenido es También seguro hay parte teórica  igual que el primer parcial ( acordate que si hay un ejemplo que la sentencia  no se cumple entonces es falso)  aprovecho para pasarle al resto ese dato la justificación la pueden hacer con ese ejemplo …… 
 Si a pesar de eso queres  mas … avisame  y el finde te busco en los exámenes que tengo de otros años para subirte algún enunciado mas
-cantidad de preguntas abiertas: 0
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Holaa buenas, les quería consultar si de casualidad podrían pasar un temario del segundo parcial como el que nos dieron en la clase de repaso del primero ? Porque quería adelantar el resumen y revisar que no me falte ningún tema
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas! Mañana hay clase? Pregunto por el paro
 
@@ -8530,18 +8475,12 @@ les quería consultar si "trazabilidad" y "consistencia eventual" se pueden cons
 
 procesando mensaje número387
      ...   cuyo contenido es La  consistencia eventual estarían como implícita o digamos embebida dentro de robustez o confiabilidad
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
 
 procesando mensaje número388
      ...   cuyo contenido es La trazabilidad perce  puede ser muchas cosas dependiendo el contexto en si … puede ser req funcional / restrccion / regla de negocio y hasta req no funcional de conformidad  (para no quemarte la cabeza con eso me inclinaria a decir sali de ahi maravilla)
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
 
 procesando mensaje número389
      ...   cuyo contenido es Fue muy buena pregunta
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
 
 procesando mensaje número390
      ...   cuyo contenido es Claro, gracias!
@@ -8683,8 +8622,6 @@ Hay preguntas abiertas: 1
 
 procesando mensaje número412
      ...   cuyo contenido es <@868238015762427975> <@830646287116402739> <@352189361800085504>  el resto del examen lo tengo yo
-cantidad de preguntas abiertas: 1
-Hay preguntas abiertas: 1
 
 procesando mensaje número413
      ...   cuyo contenido es Ok
@@ -9952,13 +9889,13 @@ procesando mensaje número584
 cantidad de preguntas abiertas: 0
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas! Perdon por el horario, el miercoles envian por mail el contexto general del final del jueves? O como es eso?
 🔶 Mensaje dudoso asignado a la pregunta cerrada: El jueves corrigen ahi mismo o dsp suben la nota al siu?
-✅ Procesamiento finalizado. 0 preguntas abiertas, 157 preguntas cerradas.
+✅ Procesamiento finalizado. 0 preguntas abiertas, 155 preguntas cerradas.
 
-✅ Se cerraron 139 preguntas en total.
+✅ Se cerraron 137 preguntas en total.
 
 ✅ Procesamiento completado para el archivo 2
 📂 Archivos guardados para el archivo 2: chat_2_emojis_gifs_descartados.csv, chat_2_numeros_descartados.csv, chat_2_json_sin_frases_cortas.csv
-📊 Resultados de procesamiento: 0 preguntas abiertas, 157 preguntas cerradas
+📊 Resultados de procesamiento: 0 preguntas abiertas, 155 preguntas cerradas
                     id            author                                                                                                                                                                                                                                  content                 timestamp attachments
 0  1221094183599734814  ezequieloescobar  Este canal será utilizado para realizar consultas (TPA, temas de la asignatura, parciales, etc.).Esperamos que sea lo más colaborativo posible.\n\nSiéntanse libres de contestar las dudas de sus compañeros y/o aportar nuevas ideas 🙂  2024-03-23T13:52:20.203Z          []
 1  1222850245067538434      martinsintas                                                     Hola profe, buenos días. Tenía una consulta sobre el material de lectura para la segunda clase (03/04/2024). ¿Lo estarían subiendo en estos días? Muchas gracias y felices Pascuas 😄  2024-03-28T10:10:17.883Z          []
@@ -10412,14 +10349,10 @@ Hay preguntas abiertas: 3
 
 procesando mensaje número77
      ...   cuyo contenido es Posiblemente te falte el import
-cantidad de preguntas abiertas: 3
-Hay preguntas abiertas: 3
 
 procesando mensaje número78
      ...   cuyo contenido es Buenas! Para este tipo de consultas, recomiendo siempre primero probar googleando, generalmente siempre hay alguna respuesta de StackOverflow. También pueden utilizar ChatGPT. Investiguen!
 Pregunta cerrada por límite de mensajes: hola! una duda, no me estaria apareciendo la carpeta src en mi proyecto
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
 
 procesando mensaje número79
      ...   cuyo contenido es hola eze, ya intente reiniciar intelli j , cerrar y abrir el proyecto o crear otro nuevo
@@ -10434,26 +10367,25 @@ Hay preguntas abiertas: 2
 
 procesando mensaje número81
      ...   cuyo contenido es Buenas! Consulta, probaste a abrir el proyecto seleccionando el POM en vez de una carpeta? Puede que estes abriendo una que IntelliJ no detecta de forma correcta y por eso se trula. Por otro lado, si accedes a la carpeta del proyecto desde el explorador de archivos, tenes la carpera src?
-cantidad de preguntas abiertas: 3
-Hay preguntas abiertas: 3
-🟡 Nueva Pregunta Abierta: buenas! consulta, probaste a abrir el proyecto seleccionando el pom en vez de una carpeta? puede que estes abriendo una que intellij no detecta de forma correcta y por eso se trula. por otro lado, si accedes a la carpeta del proyecto desde el explorador de archivos, tenes la carpera src?
 
 procesando mensaje número82
      ...   cuyo contenido es Cuál sería?
-cantidad de preguntas abiertas: 4
-Hay preguntas abiertas: 4
+Pregunta cerrada por límite de mensajes: <@690329080750669925> te fijaste si algo de esto te ayuda?
+cantidad de preguntas abiertas: 2
+Hay preguntas abiertas: 2
 El autor posee preguntas pendientes
 
 procesando mensaje número83
      ...   cuyo contenido es Preguntarle a una IA fue lo primero que hice, pero al intentar las soluciones que me recomendó el error aun persistió
-cantidad de preguntas abiertas: 4
-Hay preguntas abiertas: 4
+cantidad de preguntas abiertas: 2
+Hay preguntas abiertas: 2
 El autor posee preguntas pendientes
 
 procesando mensaje número84
      ...   cuyo contenido es buenas, si ya intente y sigue ocurriendo lo mismo, por otro lado fui al explorador de archivos y no se encuentra la carpeta src, solo la carpeta .idea junto con el gitignore y el POM
-cantidad de preguntas abiertas: 4
-Hay preguntas abiertas: 4
+Pregunta cerrada por límite de mensajes: Hola buenas, cuáles pueden ser los motivos del error "Cannot resolve symbol 'List'" (idem para ArrayList)?
+cantidad de preguntas abiertas: 1
+Hay preguntas abiertas: 1
 El autor posee preguntas pendientes
 
 procesando mensaje número85
@@ -10461,22 +10393,20 @@ procesando mensaje número85
 
 procesando mensaje número86
      ...   cuyo contenido es Buenas Profes cómo andan? Por motivos personales no voy a poder sumarme a la clase del miercoles, quería saber si será grabada y subida al drive. Muchas gracias
-Pregunta cerrada por límite de mensajes: <@690329080750669925> te fijaste si algo de esto te ayuda?
-cantidad de preguntas abiertas: 3
-Hay preguntas abiertas: 3
+cantidad de preguntas abiertas: 1
+Hay preguntas abiertas: 1
 🟡 Nueva Pregunta Abierta: buenas profes cómo andan? por motivos personales no voy a poder sumarme a la clase del miercoles, quería saber si será grabada y subida al drive. muchas gracias
 
 procesando mensaje número87
      ...   cuyo contenido es Si Lucas, la subiremos luego al Drive! Gracias por el aviso!
-Pregunta cerrada por límite de mensajes: Hola buenas, cuáles pueden ser los motivos del error "Cannot resolve symbol 'List'" (idem para ArrayList)?
 
 procesando mensaje número88
      ...   cuyo contenido es Preguntarle a una IA fue lo primero que
 
 procesando mensaje número89
      ...   cuyo contenido es Hola Lucas, gracias, ahi se soluciono, si alguno le pasa lo mismo, en arquitectura seleccione quickstart, disculpen se me paso ese detalle
-cantidad de preguntas abiertas: 3
-Hay preguntas abiertas: 3
+cantidad de preguntas abiertas: 2
+Hay preguntas abiertas: 2
 El autor posee preguntas pendientes
 
 procesando mensaje número90
@@ -10485,37 +10415,35 @@ procesando mensaje número90
  🟢 pasó a cerrarse la pregunta por respuesta de cierre de un docente
  🟤  Hubo un mensaje de cierre: buenísimo, me alegro! es importante espiar para arriba, seguro alguien recomendó o dejó algún tip! de docente lucassaclier
  🟢 pasó a cerrarse la pregunta por respuesta de cierre de un docente
- 🟤  Hubo un mensaje de cierre: buenísimo, me alegro! es importante espiar para arriba, seguro alguien recomendó o dejó algún tip! de docente lucassaclier
- 🟢 pasó a cerrarse la pregunta por respuesta de cierre de un docente
 
 procesando mensaje número91
      ...   cuyo contenido es bardie
 cantidad de preguntas abiertas: 0
-🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas! Consulta, probaste a abrir el proyecto seleccionando el POM en vez de una carpeta? Puede que estes abriendo una que IntelliJ no detecta de forma correcta y por eso se trula. Por otro lado, si accedes a la carpeta del proyecto desde el explorador de archivos, tenes la carpera src?
+🔶 Mensaje dudoso asignado a la pregunta cerrada: esta ventana decis? no me doy cuenta que tendria que poner
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas Profes cómo andan? Por motivos personales no voy a poder sumarme a la clase del miercoles, quería saber si será grabada y subida al drive. Muchas gracias
 
 procesando mensaje número92
      ...   cuyo contenido es no se que es esto, ejecute un test para probar y no le cai bien o algo asi
 cantidad de preguntas abiertas: 0
-🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas! Consulta, probaste a abrir el proyecto seleccionando el POM en vez de una carpeta? Puede que estes abriendo una que IntelliJ no detecta de forma correcta y por eso se trula. Por otro lado, si accedes a la carpeta del proyecto desde el explorador de archivos, tenes la carpera src?
+🔶 Mensaje dudoso asignado a la pregunta cerrada: esta ventana decis? no me doy cuenta que tendria que poner
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas Profes cómo andan? Por motivos personales no voy a poder sumarme a la clase del miercoles, quería saber si será grabada y subida al drive. Muchas gracias
 
 procesando mensaje número93
      ...   cuyo contenido es ahi medio que lo arregle / se arreglo solo
 cantidad de preguntas abiertas: 0
-🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas! Consulta, probaste a abrir el proyecto seleccionando el POM en vez de una carpeta? Puede que estes abriendo una que IntelliJ no detecta de forma correcta y por eso se trula. Por otro lado, si accedes a la carpeta del proyecto desde el explorador de archivos, tenes la carpera src?
+🔶 Mensaje dudoso asignado a la pregunta cerrada: esta ventana decis? no me doy cuenta que tendria que poner
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas Profes cómo andan? Por motivos personales no voy a poder sumarme a la clase del miercoles, quería saber si será grabada y subida al drive. Muchas gracias
 
 procesando mensaje número94
      ...   cuyo contenido es me tiraba que tenia un objeto  immutable y me recomendaba "envolverlo"
 cantidad de preguntas abiertas: 0
-🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas! Consulta, probaste a abrir el proyecto seleccionando el POM en vez de una carpeta? Puede que estes abriendo una que IntelliJ no detecta de forma correcta y por eso se trula. Por otro lado, si accedes a la carpeta del proyecto desde el explorador de archivos, tenes la carpera src?
+🔶 Mensaje dudoso asignado a la pregunta cerrada: esta ventana decis? no me doy cuenta que tendria que poner
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas Profes cómo andan? Por motivos personales no voy a poder sumarme a la clase del miercoles, quería saber si será grabada y subida al drive. Muchas gracias
 
 procesando mensaje número95
      ...   cuyo contenido es pero la vd no entiendo que es lo que esta mal y porque funciona si hago eso
 cantidad de preguntas abiertas: 0
-🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas! Consulta, probaste a abrir el proyecto seleccionando el POM en vez de una carpeta? Puede que estes abriendo una que IntelliJ no detecta de forma correcta y por eso se trula. Por otro lado, si accedes a la carpeta del proyecto desde el explorador de archivos, tenes la carpera src?
+🔶 Mensaje dudoso asignado a la pregunta cerrada: esta ventana decis? no me doy cuenta que tendria que poner
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas Profes cómo andan? Por motivos personales no voy a poder sumarme a la clase del miercoles, quería saber si será grabada y subida al drive. Muchas gracias
 
 procesando mensaje número96
@@ -10528,13 +10456,13 @@ Si nos remontamos a un concepto que vimos en PdeP en Objetos, mas especificament
 
 No estoy muy seguro del error que tenías, pero asumo que si la recomendación del IDE era "wrappear" a la clase, entonces me suena a que el tipo de tu atributo/variable, era una List directamente o algo por el estilo.
 cantidad de preguntas abiertas: 0
-🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas! Consulta, probaste a abrir el proyecto seleccionando el POM en vez de una carpeta? Puede que estes abriendo una que IntelliJ no detecta de forma correcta y por eso se trula. Por otro lado, si accedes a la carpeta del proyecto desde el explorador de archivos, tenes la carpera src?
+🔶 Mensaje dudoso asignado a la pregunta cerrada: esta ventana decis? no me doy cuenta que tendria que poner
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas Profes cómo andan? Por motivos personales no voy a poder sumarme a la clase del miercoles, quería saber si será grabada y subida al drive. Muchas gracias
 
 procesando mensaje número97
      ...   cuyo contenido es Hola buenos días, les quería consultar si el tp de la clase 1 de entrega individual o grupal
 cantidad de preguntas abiertas: 0
-🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas! Consulta, probaste a abrir el proyecto seleccionando el POM en vez de una carpeta? Puede que estes abriendo una que IntelliJ no detecta de forma correcta y por eso se trula. Por otro lado, si accedes a la carpeta del proyecto desde el explorador de archivos, tenes la carpera src?
+🔶 Mensaje dudoso asignado a la pregunta cerrada: esta ventana decis? no me doy cuenta que tendria que poner
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas Profes cómo andan? Por motivos personales no voy a poder sumarme a la clase del miercoles, quería saber si será grabada y subida al drive. Muchas gracias
 
 procesando mensaje número98
@@ -10550,33 +10478,28 @@ Hay preguntas abiertas: 1
 
 procesando mensaje número100
      ...   cuyo contenido es Individual la idea es que puedan poner a punto el entorno de trabajo y hagan un primer ejercicio
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
 
 procesando mensaje número101
      ...   cuyo contenido es Que queres agregarle y para que?
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
-🟡 Nueva Pregunta Abierta: que queres agregarle y para que?
 
 procesando mensaje número102
      ...   cuyo contenido es para agregarle como parámetro un alumno por ejemplo.
-cantidad de preguntas abiertas: 3
-Hay preguntas abiertas: 3
+cantidad de preguntas abiertas: 2
+Hay preguntas abiertas: 2
 El autor posee preguntas pendientes
 
 procesando mensaje número103
      ...   cuyo contenido es Genial, gracias.
-cantidad de preguntas abiertas: 3
-Hay preguntas abiertas: 3
+cantidad de preguntas abiertas: 2
+Hay preguntas abiertas: 2
 
 procesando mensaje número104
      ...   cuyo contenido es buenas, sí!
 
 procesando mensaje número105
      ...   cuyo contenido es Gracias!
-cantidad de preguntas abiertas: 3
-Hay preguntas abiertas: 3
+cantidad de preguntas abiertas: 2
+Hay preguntas abiertas: 2
 El autor posee preguntas pendientes
  ⚪ Hubo un mensaje de cierre : gracias! del alumno: eliasolivencia
 🟢 pasó a cerrarse la pregunta por respuesta de cierre de un alumno
@@ -10585,26 +10508,21 @@ procesando mensaje número106
      ...   cuyo contenido es Depende a quien les des la responsabilidad de saber si esta aprobada lo que estoy entendiendo que vos queres hacer algo como : 
 Dentro de la clase alumno recorrer dentro de su lista de materias si esta aprobada o no supongo que queres pasar el propio alumno como parametro… como poder siempre se puede .. lo que uno debe evaluar en diseño quien es  la clase o el objeto a la que pertenece la responsabilidad y hacerlo con el menor grado de acoplamiento posible
 No se como lo estas planteando hay varias formas de resolver lo mismo
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
-El autor posee preguntas pendientes
 
 procesando mensaje número107
      ...   cuyo contenido es Buenas! Hay que utilizar alguna librería de Maven para la tarea? Porque estoy con varios problemas al instalar Maven
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
+cantidad de preguntas abiertas: 1
+Hay preguntas abiertas: 1
 🟡 Nueva Pregunta Abierta: buenas! hay que utilizar alguna librería de maven para la tarea? porque estoy con varios problemas al instalar maven
 
 procesando mensaje número108
      ...   cuyo contenido es Buenas! Que problemas estas teniendo? Estas usando IntelliJ?
-cantidad de preguntas abiertas: 3
-Hay preguntas abiertas: 3
-🟡 Nueva Pregunta Abierta: buenas! que problemas estas teniendo? estas usando intellij?
 
 procesando mensaje número109
      ...   cuyo contenido es Estaba viendo el seminario de Java que hay que ver y me puse a instalar maven. Pero no estaría pudiendo abrir el archivo siquiera
-cantidad de preguntas abiertas: 4
-Hay preguntas abiertas: 4
+Pregunta cerrada por límite de mensajes: Buen día. Consulta: el método “boolean aprobada()” que figura en la consigna de la tarea de la semana, es posible agregarle parámetros o debe funcionar así tal cual como está en la consigna?
+cantidad de preguntas abiertas: 1
+Hay preguntas abiertas: 1
 El autor posee preguntas pendientes
 
 procesando mensaje número110
@@ -10612,8 +10530,8 @@ procesando mensaje número110
 
 procesando mensaje número111
      ...   cuyo contenido es Ya instalé la JDK. Pero quiero abrir el instalador de  Maven en mac y no me lo toma. Busque online y todavía no lo puedo resolver
-cantidad de preguntas abiertas: 4
-Hay preguntas abiertas: 4
+cantidad de preguntas abiertas: 1
+Hay preguntas abiertas: 1
 El autor posee preguntas pendientes
 
 procesando mensaje número112
@@ -10621,34 +10539,29 @@ procesando mensaje número112
 
 procesando mensaje número113
      ...   cuyo contenido es Si usas IntelliJ, no es necesario instalar Maven por separado, ya que viene integrado en el mismo IDE. Si vas a usar otro IDE, debería ser lo que dijo <@801796163367469106> !
-cantidad de preguntas abiertas: 4
-Hay preguntas abiertas: 4
-El autor posee preguntas pendientes
 
 procesando mensaje número114
      ...   cuyo contenido es Ahhhh
-cantidad de preguntas abiertas: 4
-Hay preguntas abiertas: 4
+cantidad de preguntas abiertas: 1
+Hay preguntas abiertas: 1
 El autor posee preguntas pendientes
 
 procesando mensaje número115
      ...   cuyo contenido es Genial
-cantidad de preguntas abiertas: 4
-Hay preguntas abiertas: 4
-El autor posee preguntas pendientes
- ⚪ Hubo un mensaje de cierre : genial del alumno: skalusti
-🟢 pasó a cerrarse la pregunta por respuesta de cierre de un alumno
+Pregunta cerrada por límite de mensajes: Buenas! Hay que utilizar alguna librería de Maven para la tarea? Porque estoy con varios problemas al instalar Maven
+cantidad de preguntas abiertas: 0
+🔶 Mensaje dudoso asignado a la pregunta cerrada: Buen día. Consulta: el método “boolean aprobada()” que figura en la consigna de la tarea de la semana, es posible agregarle parámetros o debe funcionar así tal cual como está en la consigna?
+🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas! Hay que utilizar alguna librería de Maven para la tarea? Porque estoy con varios problemas al instalar Maven
 
 procesando mensaje número116
      ...   cuyo contenido es Gracias, me estaba volviendo loca
-cantidad de preguntas abiertas: 3
-Hay preguntas abiertas: 3
+cantidad de preguntas abiertas: 0
+🔶 Mensaje dudoso asignado a la pregunta cerrada: Buen día. Consulta: el método “boolean aprobada()” que figura en la consigna de la tarea de la semana, es posible agregarle parámetros o debe funcionar así tal cual como está en la consigna?
+🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas! Hay que utilizar alguna librería de Maven para la tarea? Porque estoy con varios problemas al instalar Maven
 
 procesando mensaje número117
      ...   cuyo contenido es Buenas tardes profes, disculpen la molestia. Les hago la siguiente consulta: En la clase anterior, respecto a la practica entregable "validador de inscripciones", se nos referencio a realizar el primer punto nada mas (si mal no recuerdo, puedo estar errado) Pero en el aula virtual se nos hace referencia a los tres puntos. Lo hacemos como dice en el aula virtual?
-Pregunta cerrada por límite de mensajes: Buen día. Consulta: el método “boolean aprobada()” que figura en la consigna de la tarea de la semana, es posible agregarle parámetros o debe funcionar así tal cual como está en la consigna?
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
+cantidad de preguntas abiertas: 0
 🟡 Nueva Pregunta Abierta: buenas tardes profes, disculpen la molestia. les hago la siguiente consulta: en la clase anterior, respecto a la practica entregable "validador de inscripciones", se nos referencio a realizar el primer punto nada mas (si mal no recuerdo, puedo estar errado) pero en el aula virtual se nos hace referencia a los tres puntos. lo hacemos como dice en el aula virtual?
 
 procesando mensaje número118
@@ -10656,33 +10569,26 @@ procesando mensaje número118
 
 procesando mensaje número119
      ...   cuyo contenido es Buenas! Con <@435609076534214667> estamos buscando grupo, si a alguien les faltan dos que nos avise!
-Pregunta cerrada por límite de mensajes: Que queres agregarle y para que?
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
+cantidad de preguntas abiertas: 1
+Hay preguntas abiertas: 1
 
 procesando mensaje número120
      ...   cuyo contenido es Buenas! Estoy tratando de correr los tests de la tarea, pero me tira este error, alguien sabe porque es? Estoy hace un rato, y no encuentro la línea del error
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
+cantidad de preguntas abiertas: 1
+Hay preguntas abiertas: 1
 🟡 Nueva Pregunta Abierta: buenas! estoy tratando de correr los tests de la tarea, pero me tira este error, alguien sabe porque es? estoy hace un rato, y no encuentro la línea del error
 
 procesando mensaje número121
      ...   cuyo contenido es Buenas! Sin ver el código, pero viendo el error, entiendo que estas queriendo agregarle un elemento a una colección que no esta inicializada. Si revisas el trace, podes ver que esto te esta pasando en la linea 28 de la clase Materia, mas específicamente en el metodo agregarCorrelativas().
-cantidad de preguntas abiertas: 3
-Hay preguntas abiertas: 3
-El autor posee preguntas pendientes
 
 procesando mensaje número122
      ...   cuyo contenido es Ahhh, si, si. Lo acabo de encontrar. Para inicializar una lista vacía, se pone algo en particular? porque nome toma el [] ni el {}
-Pregunta cerrada por límite de mensajes: Buenas! Que problemas estas teniendo? Estas usando IntelliJ?
 cantidad de preguntas abiertas: 2
 Hay preguntas abiertas: 2
 El autor posee preguntas pendientes
 
 procesando mensaje número123
      ...   cuyo contenido es Podes chequear este link: https://www.geeksforgeeks.org/initializing-a-list-in-java/amp/
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
 
 procesando mensaje número124
      ...   cuyo contenido es Bárbaro! Gracias!
@@ -10784,8 +10690,6 @@ Hay preguntas abiertas: 1
 
 procesando mensaje número140
      ...   cuyo contenido es @everyone  mil disculpas por poner que no existian es que cuando bajamos las actas en ese momento del siu aun no estaban por eso el “no existen” .. no quisiera que se mal interprete era para reclamar en las actas
-cantidad de preguntas abiertas: 1
-Hay preguntas abiertas: 1
 
 procesando mensaje número141
      ...   cuyo contenido es Buenass, disculpen las molestias, cuando puedan podrían subir la clase grabada del miércoles?
@@ -10910,13 +10814,9 @@ El autor posee preguntas pendientes
 
 procesando mensaje número161
      ...   cuyo contenido es Mañana lo reveo ahora no estoy en casa
-cantidad de preguntas abiertas: 1
-Hay preguntas abiertas: 1
 
 procesando mensaje número162
      ...   cuyo contenido es Idem a lo de marcelo .. cuando armamos las planillas era lo que figuraba en el siu en ese momento y se ve q después q les aceptaron fueron ajustado
-cantidad de preguntas abiertas: 1
-Hay preguntas abiertas: 1
 
 procesando mensaje número163
      ...   cuyo contenido es Buenas! Me aparece en la plantilla de equipos que no aparezco en el acta. Todavía no estoy inscripta en el SIU, yo hable con Lucas, pero esta semana ya voy a aparecer. Estoy en el grupo 19
@@ -11333,8 +11233,6 @@ El autor posee preguntas pendientes
 
 procesando mensaje número231
      ...   cuyo contenido es Ahi lo paso a los chicos
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
 
 procesando mensaje número232
      ...   cuyo contenido es Buenas! Tengo una consulta sobre el Patrón State. Los estados que derivan de la interfaz, ¿pueden tener atributos propios?
@@ -11345,13 +11243,9 @@ Hay preguntas abiertas: 1
 
 procesando mensaje número233
      ...   cuyo contenido es Cada clase de por si puede tener atributos propios publicos o privados
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
 
 procesando mensaje número234
      ...   cuyo contenido es Si esa clase es hija de una herencia ademas de tener por herencia los atributos y métodos del padre podrá tener sus propios métodos y atributos
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
 
 procesando mensaje número235
      ...   cuyo contenido es Buenas! listo el cambio de grupo, confirmame si podes ver los cambios!
@@ -13170,50 +13064,45 @@ y en la parte de inscripción, estaría bien que en la tabla persona haya dos at
 procesando mensaje número499
      ...   cuyo contenido es Buuenas respecto a la primera parte si deberias considerar lo del participante y si es necesario conocer los equipos se una competencia en particular (puedes desnormalizarlo utilizando ademas de la fk a participante persona ) otra fk al equipo .. no veo el problema de hacerlo solo debes comprender q el modelo queda desnormalizado y hay redundancia se datos …
 Respecto a la inscripcion ojo te alcanza un atributo … ? Cuantas insripciones tiene una persnoa?
-cantidad de preguntas abiertas: 1
-Hay preguntas abiertas: 1
-🟡 Nueva Pregunta Abierta: buuenas respecto a la primera parte si deberias considerar lo del participante y si es necesario conocer los equipos se una competencia en particular (puedes desnormalizarlo utilizando ademas de la fk a participante persona ) otra fk al equipo .. no veo el problema de hacerlo solo debes comprender q el modelo queda desnormalizado y hay redundancia se datos …
-respecto a la inscripcion ojo te alcanza un atributo … ? cuantas insripciones tiene una persnoa?
 
 procesando mensaje número500
      ...   cuyo contenido es okey genial, muchas gracias por responder!
 Y como había pensado persona y participante en dos tablas diferentes, una persona tendría solo una inscripción, que pensé guardar la fecha de esta y después la fecha de validación y por ahí podría agregar un atributo de inscripto o validado pero había planteado que solo se guardaría en la base aquellas personas que fueron validadas así que creo que sería redundante ponerlo
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
+cantidad de preguntas abiertas: 1
+Hay preguntas abiertas: 1
 El autor posee preguntas pendientes
 
 procesando mensaje número501
      ...   cuyo contenido es @everyone alguien se olvidó este vaso ayer! Me avisa y coordinamos!
   ### pasó a cerrarse la pregunta, más de 8 horas hay de diferencia con el mensaje actual  ###
          ## el mensaje actual es: @everyone alguien se olvidó este vaso ayer! me avisa y coordinamos! y su autor es lucassaclier
-
-procesando mensaje número502
-     ...   cuyo contenido es Hola! Es mío jajajaja
-  ### pasó a cerrarse la pregunta, más de 8 horas hay de diferencia con el mensaje actual  ###
-         ## el mensaje actual es: hola! es mío jajajaja y su autor es nicolasbru
-cantidad de preguntas abiertas: 0
+🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas! Quería saber si de casualidad tenían las respuestas o alguna explicación de los desafíos que vimos el miércoles, que no llegue a tomar nota sobre todos
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas, como va? Estaba haciendo el final del 03/12/22 de Autódromo de la Ciudad, ví la clase de consulta y me quedaron dos dudas de como planteo unas cosas en la parte de persistencia:
 hice una tabla competencia que tiene una relación con equipos y no se si tendría que tener en cuenta que hay personas que no pertenecen a un equipo pero sí participan de alguna forma en la competencia y deberían tener alguna relación con la tabla competencia directamente, en vez de los equipos tener participantes en la tabla competencia(que luego participante tienen una FK de persona, un tipo de Participante y una FK del equipo)
 y en la parte de Inscripción, estaría bien que en la tabla Persona haya dos atributos que sea fecha_inscripcion y fecha_validacion en vez de hacer una tabla Inscripcion a parte?
-🔶 Mensaje dudoso asignado a la pregunta cerrada: Buuenas respecto a la primera parte si deberias considerar lo del participante y si es necesario conocer los equipos se una competencia en particular (puedes desnormalizarlo utilizando ademas de la fk a participante persona ) otra fk al equipo .. no veo el problema de hacerlo solo debes comprender q el modelo queda desnormalizado y hay redundancia se datos …
-Respecto a la inscripcion ojo te alcanza un atributo … ? Cuantas insripciones tiene una persnoa?
+
+procesando mensaje número502
+     ...   cuyo contenido es Hola! Es mío jajajaja
+cantidad de preguntas abiertas: 0
+🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas! Quería saber si de casualidad tenían las respuestas o alguna explicación de los desafíos que vimos el miércoles, que no llegue a tomar nota sobre todos
+🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas, como va? Estaba haciendo el final del 03/12/22 de Autódromo de la Ciudad, ví la clase de consulta y me quedaron dos dudas de como planteo unas cosas en la parte de persistencia:
+hice una tabla competencia que tiene una relación con equipos y no se si tendría que tener en cuenta que hay personas que no pertenecen a un equipo pero sí participan de alguna forma en la competencia y deberían tener alguna relación con la tabla competencia directamente, en vez de los equipos tener participantes en la tabla competencia(que luego participante tienen una FK de persona, un tipo de Participante y una FK del equipo)
+y en la parte de Inscripción, estaría bien que en la tabla Persona haya dos atributos que sea fecha_inscripcion y fecha_validacion en vez de hacer una tabla Inscripcion a parte?
 
 procesando mensaje número503
      ...   cuyo contenido es Pido disculpas, 3 cafés antes del parcial me dejaron un poco destruido una vez finalizado
 cantidad de preguntas abiertas: 0
+🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas! Quería saber si de casualidad tenían las respuestas o alguna explicación de los desafíos que vimos el miércoles, que no llegue a tomar nota sobre todos
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas, como va? Estaba haciendo el final del 03/12/22 de Autódromo de la Ciudad, ví la clase de consulta y me quedaron dos dudas de como planteo unas cosas en la parte de persistencia:
 hice una tabla competencia que tiene una relación con equipos y no se si tendría que tener en cuenta que hay personas que no pertenecen a un equipo pero sí participan de alguna forma en la competencia y deberían tener alguna relación con la tabla competencia directamente, en vez de los equipos tener participantes en la tabla competencia(que luego participante tienen una FK de persona, un tipo de Participante y una FK del equipo)
 y en la parte de Inscripción, estaría bien que en la tabla Persona haya dos atributos que sea fecha_inscripcion y fecha_validacion en vez de hacer una tabla Inscripcion a parte?
-🔶 Mensaje dudoso asignado a la pregunta cerrada: Buuenas respecto a la primera parte si deberias considerar lo del participante y si es necesario conocer los equipos se una competencia en particular (puedes desnormalizarlo utilizando ademas de la fk a participante persona ) otra fk al equipo .. no veo el problema de hacerlo solo debes comprender q el modelo queda desnormalizado y hay redundancia se datos …
-Respecto a la inscripcion ojo te alcanza un atributo … ? Cuantas insripciones tiene una persnoa?
 
 procesando mensaje número504
      ...   cuyo contenido es <@390317736376664065> después coordinamos y te lo acerco!
+🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas! Quería saber si de casualidad tenían las respuestas o alguna explicación de los desafíos que vimos el miércoles, que no llegue a tomar nota sobre todos
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas, como va? Estaba haciendo el final del 03/12/22 de Autódromo de la Ciudad, ví la clase de consulta y me quedaron dos dudas de como planteo unas cosas en la parte de persistencia:
 hice una tabla competencia que tiene una relación con equipos y no se si tendría que tener en cuenta que hay personas que no pertenecen a un equipo pero sí participan de alguna forma en la competencia y deberían tener alguna relación con la tabla competencia directamente, en vez de los equipos tener participantes en la tabla competencia(que luego participante tienen una FK de persona, un tipo de Participante y una FK del equipo)
 y en la parte de Inscripción, estaría bien que en la tabla Persona haya dos atributos que sea fecha_inscripcion y fecha_validacion en vez de hacer una tabla Inscripcion a parte?
-🔶 Mensaje dudoso asignado a la pregunta cerrada: Buuenas respecto a la primera parte si deberias considerar lo del participante y si es necesario conocer los equipos se una competencia en particular (puedes desnormalizarlo utilizando ademas de la fk a participante persona ) otra fk al equipo .. no veo el problema de hacerlo solo debes comprender q el modelo queda desnormalizado y hay redundancia se datos …
-Respecto a la inscripcion ojo te alcanza un atributo … ? Cuantas insripciones tiene una persnoa?
 
 procesando mensaje número505
      ...   cuyo contenido es Hola! Tengo un tema cuando subo las fotos de las revisiones, se guarda todo bien el path y demàs, pero Javalin como que no carga la nueva foto por ende no me la renderiza, eso que està en la carpeta de los archivos estaticos, hay manera de que se pueda como recargar esa carpeta sin reiniciar la app? Porque una vez reiniciada la levanta perfecto
@@ -13241,16 +13130,18 @@ procesando mensaje número510
   ### pasó a cerrarse la pregunta, más de 8 horas hay de diferencia con el mensaje actual  ###
          ## el mensaje actual es: buenas! mil disculpas la molestia, <@315681921549991947>  estamos teniendo un error en el despliegue y no sabemos a que puede estar relacionado. el proyecto se buildea correctamente, pero a la hora de ejectuar el jar nos tira el siguiente mensaje. al correr el tp en intellij lo hace sin problemas, por lo que no entendemos que estamos haciendo mal. desde ya muchas gracias!! y su autor es vickitoria
 cantidad de preguntas abiertas: 0
-🔶 Mensaje dudoso asignado a la pregunta cerrada: Buuenas respecto a la primera parte si deberias considerar lo del participante y si es necesario conocer los equipos se una competencia en particular (puedes desnormalizarlo utilizando ademas de la fk a participante persona ) otra fk al equipo .. no veo el problema de hacerlo solo debes comprender q el modelo queda desnormalizado y hay redundancia se datos …
-Respecto a la inscripcion ojo te alcanza un atributo … ? Cuantas insripciones tiene una persnoa?
+🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas, como va? Estaba haciendo el final del 03/12/22 de Autódromo de la Ciudad, ví la clase de consulta y me quedaron dos dudas de como planteo unas cosas en la parte de persistencia:
+hice una tabla competencia que tiene una relación con equipos y no se si tendría que tener en cuenta que hay personas que no pertenecen a un equipo pero sí participan de alguna forma en la competencia y deberían tener alguna relación con la tabla competencia directamente, en vez de los equipos tener participantes en la tabla competencia(que luego participante tienen una FK de persona, un tipo de Participante y una FK del equipo)
+y en la parte de Inscripción, estaría bien que en la tabla Persona haya dos atributos que sea fecha_inscripcion y fecha_validacion en vez de hacer una tabla Inscripcion a parte?
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Hola! Tengo un tema cuando subo las fotos de las revisiones, se guarda todo bien el path y demàs, pero Javalin como que no carga la nueva foto por ende no me la renderiza, eso que està en la carpeta de los archivos estaticos, hay manera de que se pueda como recargar esa carpeta sin reiniciar la app? Porque una vez reiniciada la levanta perfecto
 
 procesando mensaje número511
      ...   cuyo contenido es Buenass <@589499545491079169>! 
  Por el error *Invalid signature file digest for Manifest main attributes exception while trying to run jar file* parece ser un problema de firmas con una de las dependencias. Prueben de exlcuir **META-INF/*.SF,META-INF/*.DSA,META-INF/*.RSA** en la configuración del plugin, vuelvan a crear el jar y vemos si vuelve a pasar.
 cantidad de preguntas abiertas: 0
-🔶 Mensaje dudoso asignado a la pregunta cerrada: Buuenas respecto a la primera parte si deberias considerar lo del participante y si es necesario conocer los equipos se una competencia en particular (puedes desnormalizarlo utilizando ademas de la fk a participante persona ) otra fk al equipo .. no veo el problema de hacerlo solo debes comprender q el modelo queda desnormalizado y hay redundancia se datos …
-Respecto a la inscripcion ojo te alcanza un atributo … ? Cuantas insripciones tiene una persnoa?
+🔶 Mensaje dudoso asignado a la pregunta cerrada: Buenas, como va? Estaba haciendo el final del 03/12/22 de Autódromo de la Ciudad, ví la clase de consulta y me quedaron dos dudas de como planteo unas cosas en la parte de persistencia:
+hice una tabla competencia que tiene una relación con equipos y no se si tendría que tener en cuenta que hay personas que no pertenecen a un equipo pero sí participan de alguna forma en la competencia y deberían tener alguna relación con la tabla competencia directamente, en vez de los equipos tener participantes en la tabla competencia(que luego participante tienen una FK de persona, un tipo de Participante y una FK del equipo)
+y en la parte de Inscripción, estaría bien que en la tabla Persona haya dos atributos que sea fecha_inscripcion y fecha_validacion en vez de hacer una tabla Inscripcion a parte?
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Hola! Tengo un tema cuando subo las fotos de las revisiones, se guarda todo bien el path y demàs, pero Javalin como que no carga la nueva foto por ende no me la renderiza, eso que està en la carpeta de los archivos estaticos, hay manera de que se pueda como recargar esa carpeta sin reiniciar la app? Porque una vez reiniciada la levanta perfecto
 
 procesando mensaje número512
@@ -13470,8 +13361,6 @@ cantidad de preguntas abiertas: 0
 
 procesando mensaje número548
      ...   cuyo contenido es Yo revisé tu examen … si puedo en un rato te envío … si ya viste las consideraciones y queres hacerme alguna pregunta puntual escribime por md
-cantidad de preguntas abiertas: 1
-Hay preguntas abiertas: 1
 
 procesando mensaje número549
      ...   cuyo contenido es Buenaas! Consulta este sabado voy a recuperar el segundo parcial para la promoción. Entiendo que hay que dar todo el parcial de nuevo, en este caso cuanto tendría de tiempo? Dos horas y media? Muchas gracias
@@ -13496,8 +13385,6 @@ Recordá que les recomendamos estudiar de finales, ya que tienen clases de consu
 
 procesando mensaje número553
      ...   cuyo contenido es Te mande el examen por mensaje directo cualquier duda preguntam
-cantidad de preguntas abiertas: 2
-Hay preguntas abiertas: 2
 
 procesando mensaje número554
      ...   cuyo contenido es <@1219766711415209984> <@757767776159924335> Buenos días, disculpen que los moleste con otra consulta. Quería saber si nos presentamos a una fecha de recuperación y hacemos algunos temas de los que debemos pero no todos, cuenta como que recuperamos solamente los temas que intentamos resolver? Pregunto porque estoy preparando otros parciales/finales y no se si puedo llegar a preparar todos los temas que debo para la primera fecha pero de todas formas me quería presentar.
@@ -13636,8 +13523,6 @@ El autor posee preguntas pendientes
 
 procesando mensaje número573
      ...   cuyo contenido es Correcto
-cantidad de preguntas abiertas: 1
-Hay preguntas abiertas: 1
 
 procesando mensaje número574
      ...   cuyo contenido es Claro se entiende perfecto, gracias
@@ -13821,10 +13706,10 @@ cantidad de preguntas abiertas: 0
 🔶 Mensaje dudoso asignado a la pregunta cerrada: buenos dias! como estan?
 Una consulta, ya estan definidas las fechas de recuperacion para febrero?
 🔶 Mensaje dudoso asignado a la pregunta cerrada: Puede ser que no estén los links de la clase de consulta del último final de febrero?
-✅ Procesamiento finalizado. 0 preguntas abiertas, 144 preguntas cerradas.
+✅ Procesamiento finalizado. 0 preguntas abiertas, 140 preguntas cerradas.
 
-✅ Se cerraron 132 preguntas en total.
+✅ Se cerraron 129 preguntas en total.
 
 ✅ Procesamiento completado para el archivo 3
 📂 Archivos guardados para el archivo 3: chat_3_emojis_gifs_descartados.csv, chat_3_numeros_descartados.csv, chat_3_json_sin_frases_cortas.csv
-📊 Resultados de procesamiento: 0 preguntas abiertas, 144 preguntas cerradas
+📊 Resultados de procesamiento: 0 preguntas abiertas, 140 preguntas cerradas
