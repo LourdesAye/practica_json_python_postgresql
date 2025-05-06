@@ -1,0 +1,23 @@
+                    id            author                                                                                                                                                                                                                                  content                 timestamp                             attachments
+0  1221094197726281851  ezequieloescobar  Este canal será utilizado para realizar consultas (TPA, temas de la asignatura, parciales, etc.).Esperamos que sea lo más colaborativo posible.\n\nSiéntanse libres de contestar las dudas de sus compañeros y/o aportar nuevas ideas 🙂  2024-03-23T13:52:23.571Z                                      []
+1  1222255861699969065           feinez_                                                                                                                                                                  Buenas tardes, que debería tildar para instalar IntelliJ correctamente.  2024-03-26T18:48:25.845Z  [images/1222255861699969065_image.png]
+2  1222262379816161363  ezequieloescobar                                                                                                                      Elian, buenas tardes! Con que selecciones la opción de asociar los ".java", y el ícono en el escritorio, está bien!  2024-03-26T19:14:19.885Z                                      []
+3  1222291696927379587           feinez_                                                                                                                                                                                                                                  Gracias  2024-03-26T21:10:49.629Z                                      []
+4  1222976463607824384      gonzaloturri                                                                                                          Buenas, en la entrega de la tarea el repo tiene que tener el proyecto entero de Java + el uml o solamente las clases y el uml ?  2024-03-28T18:31:50.728Z                                      []
+🔵 Iniciando procesamiento del DataFrame...
+
+procesando mensaje número1
+     ...   cuyo contenido es Este canal será utilizado para realizar consultas (TPA, temas de la asignatura, parciales, etc.).Esperamos que sea lo más colaborativo posible.
+
+Siéntanse libres de contestar las dudas de sus compañeros y/o aportar nuevas ideas 🙂
+🔶 Mensaje  que no posee pregunta : 'Este canal será utilizado para realizar consultas (TPA, temas de la asignatura, parciales, etc.).Esperamos que sea lo más colaborativo posible.
+
+Siéntanse libres de contestar las dudas de sus compañeros y/o aportar nuevas ideas 🙂' del docente 'ezequieloescobar' 
+
+procesando mensaje número2
+     ...   cuyo contenido es Buenas tardes, que debería tildar para instalar IntelliJ correctamente.
+cantidad de preguntas abiertas: 0
+🟡 Nueva Pregunta Abierta: buenas tardes, que debería tildar para instalar intellij correctamente.
+
+procesando mensaje número3
+     ...   cuyo contenido es Elian, buenas tardes! Con que selecciones la opción de asociar los ".java", y el ícono en el escritorio, está bien!
