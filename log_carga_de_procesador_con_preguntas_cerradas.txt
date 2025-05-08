@@ -1,0 +1,50 @@
+2025-05-07 20:28:24,093 - DEBUG -  cantidad de mensajes en el json: 793
+2025-05-07 20:28:24,095 - DEBUG - cantidad de mensajes no vacios: 775
+2025-05-07 20:28:24,097 - DEBUG - cantidad de mensajes irrelevantes como gifs: 0
+2025-05-07 20:28:24,099 - DEBUG - cantidad de mensajes del json sin irrelevantes como gifs: 775
+2025-05-07 20:28:24,100 - DEBUG - cantidad de mensajes con signos raros: 0
+2025-05-07 20:28:24,101 - DEBUG - cantidad de mensajes del json sin vacios, sin gifs y sin simbolos raros: 775
+2025-05-07 20:28:24,318 - DEBUG - ✅ Procesamiento completado para el archivo 1
+2025-05-07 20:28:24,318 - DEBUG - 📂 Archivos guardados para el archivo 1: chat_1_emojis_gifs_descartados.csv, chat_1_numeros_descartados.csv, chat_1_json_sin_frases_cortas.csv
+2025-05-07 20:28:24,318 - DEBUG - 📊 Resultados de procesamiento: 1 preguntas abiertas, 191 preguntas cerradas
+2025-05-07 20:28:24,318 - DEBUG -  
+2025-05-07 20:28:24,320 - DEBUG -  cantidad de mensajes en el json: 601
+2025-05-07 20:28:24,321 - DEBUG - cantidad de mensajes no vacios: 586
+2025-05-07 20:28:24,323 - DEBUG - cantidad de mensajes irrelevantes como gifs: 2
+2025-05-07 20:28:24,325 - DEBUG - cantidad de mensajes del json sin irrelevantes como gifs: 584
+2025-05-07 20:28:24,325 - DEBUG - cantidad de mensajes con signos raros: 0
+2025-05-07 20:28:24,326 - DEBUG - cantidad de mensajes del json sin vacios, sin gifs y sin simbolos raros: 584
+2025-05-07 20:28:24,563 - DEBUG - ✅ Procesamiento completado para el archivo 2
+2025-05-07 20:28:24,563 - DEBUG - 📂 Archivos guardados para el archivo 2: chat_2_emojis_gifs_descartados.csv, chat_2_numeros_descartados.csv, chat_2_json_sin_frases_cortas.csv
+2025-05-07 20:28:24,563 - DEBUG - 📊 Resultados de procesamiento: 0 preguntas abiertas, 155 preguntas cerradas
+2025-05-07 20:28:24,563 - DEBUG -  
+2025-05-07 20:28:24,567 - DEBUG -  cantidad de mensajes en el json: 622
+2025-05-07 20:28:24,568 - DEBUG - cantidad de mensajes no vacios: 604
+2025-05-07 20:28:24,569 - DEBUG - cantidad de mensajes irrelevantes como gifs: 1
+2025-05-07 20:28:24,571 - DEBUG - cantidad de mensajes del json sin irrelevantes como gifs: 603
+2025-05-07 20:28:24,571 - DEBUG - cantidad de mensajes con signos raros: 0
+2025-05-07 20:28:24,572 - DEBUG - cantidad de mensajes del json sin vacios, sin gifs y sin simbolos raros: 603
+2025-05-07 20:28:24,783 - DEBUG - ✅ Procesamiento completado para el archivo 3
+2025-05-07 20:28:24,783 - DEBUG - 📂 Archivos guardados para el archivo 3: chat_3_emojis_gifs_descartados.csv, chat_3_numeros_descartados.csv, chat_3_json_sin_frases_cortas.csv
+2025-05-07 20:28:24,783 - DEBUG - 📊 Resultados de procesamiento: 0 preguntas abiertas, 140 preguntas cerradas
+2025-05-07 20:28:24,783 - DEBUG -  
+2025-05-07 20:28:24,783 - DEBUG - 🔍 Cantidad de procesadores generados: 3
+2025-05-07 20:28:24,783 - DEBUG - 🗃️ Conectándose a la base de datos...
+2025-05-07 20:28:24,838 - DEBUG - vas a ingresar a la posible carga de datos
+2025-05-07 20:28:24,838 - DEBUG -  
+2025-05-07 20:28:24,838 - DEBUG - analizando el json número : 1
+2025-05-07 20:28:24,838 - DEBUG - Cantidad de Preguntas Cerradas 191
+2025-05-07 20:28:24,839 - DEBUG - La cantidad total de respuestas en el json 191 es 781
+2025-05-07 20:28:24,839 - DEBUG -  
+2025-05-07 20:28:24,839 - DEBUG - analizando el json número : 2
+2025-05-07 20:28:24,839 - DEBUG - Cantidad de Preguntas Cerradas 155
+2025-05-07 20:28:24,839 - DEBUG - La cantidad total de respuestas en el json 155 es 609
+2025-05-07 20:28:24,839 - DEBUG -  
+2025-05-07 20:28:24,839 - DEBUG - analizando el json número : 3
+2025-05-07 20:28:24,839 - DEBUG - Cantidad de Preguntas Cerradas 140
+2025-05-07 20:28:24,839 - DEBUG - La cantidad total de respuestas en el json 140 es 645
+2025-05-07 20:28:24,839 - DEBUG - La cantidad total de preguntas : 486
+2025-05-07 20:28:24,839 - DEBUG - La cantidad total de respuestas: 2035
+2025-05-07 20:28:24,839 - DEBUG - La cantidad total archivos adjuntos de preguntas : 145
+2025-05-07 20:28:24,839 - DEBUG - La cantidad total archivos adjuntos de respuestas : 1390
+2025-05-07 20:28:24,840 - DEBUG - 💾 Conexión cerrada y datos guardados.

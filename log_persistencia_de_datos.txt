@@ -1,0 +1,2 @@
+2025-05-07 20:28:24,838 - DEBUG - ✅ Te conectaste a la base de datos
+2025-05-07 20:28:24,839 - DEBUG - 🧾 Conexión a la base de datos cerrada y cambios guardados.
