@@ -1,0 +1,6 @@
+2025-05-09 21:11:31,033 - DEBUG - LAS PREGUNTAS CONVERTIDAS EN RESPUESTA POR FALTA DE CONTEXTO:
+2025-05-09 21:11:31,033 - DEBUG -  PREGUNTA PADRE 10 : la clase Main, deberia seguir existiendo? es decir, entonces dentro de la carpeta **src** creo una carpeta **Main**, y en esta carpeta meto las 4 clases que tengo
+2025-05-09 21:11:31,033 - DEBUG -  PREGUNTA A CONVERTIR EN RESPUESTA: 21 : está todo ok?
+2025-05-09 21:11:31,033 - DEBUG - LAS PREGUNTAS CONVERTIDAS EN RESPUESTA POR FALTA DE CONTEXTO:
+2025-05-09 21:11:31,033 - DEBUG -  PREGUNTA PADRE 35 : Buenas. alguien sabe porque me marca el before? Con el test me marca lo mismo
+2025-05-09 21:11:31,036 - DEBUG -  PREGUNTA A CONVERTIR EN RESPUESTA: 38 : algo asi?
